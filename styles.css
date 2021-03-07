@@ -1,0 +1,86 @@
+html,body{
+    margin:0;
+    padding:0;
+    height:100%;
+    width:100%;
+  }
+  
+  #div_one{
+    height:100%;
+    width:50%;
+    background:grey;
+      float:left;
+  }
+  
+  #div_two{
+    height:100%;
+    width:50%;
+    background:white;
+      float:left;
+  }
+
+
+.divShell{
+    background-color: antiquewhite
+  }
+  
+  H1{
+    text-align: center
+  }
+  form{
+    border-radius: 25px;
+    background-color: lightblue;
+    align-self: center;
+    color: black;
+    margin: 6px;
+  }
+  
+  .loanBlock{
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+  }
+  
+  .aprBlock{
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+  }
+  
+  .tenureBlock{
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+  }
+  
+  .buttonBlock{
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right:20px
+  }
+  
+  button{
+    position: relative;
+    left: 42.5%;
+    bottom: 25%;
+    background-color: navy;
+    color: white;
+    padding: 10px;
+    border-radius: 30px
+  }
+  
+  #EMICapt{
+  
+    border-radius: 10px;
+    background-color:lightgreen;
+    color: black;
+    padding: 20px;
+    text-align: center
+  }
+
+  iframe {
+    display: block;
+    border-style:none;
+}
